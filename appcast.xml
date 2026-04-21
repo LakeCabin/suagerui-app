@@ -90,5 +90,21 @@
             />
         </item>
 
+            <item>
+            <title>Version 1.4.1</title>
+            <link>https://github.com/LakeCabin/suagerui-app/releases/tag/v1.4.1</link>
+            <sparkle:releaseNotesLink>https://github.com/LakeCabin/suagerui-app/releases/download/v1.4.1/release-notes-1.4.1.html</sparkle:releaseNotesLink>
+            <pubDate>Tue, 21 Apr 2026 19:58:43 -0400</pubDate>
+            <sparkle:version>2026042133</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LakeCabin/suagerui-app/releases/download/v1.4.1/SuagerUI-1.4.1.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="E0lP3gsuGag4VqFq9owhnBa/vaU3chygAQueOf19+9lPFSabmLLQm0hILYDzps/ea2taXtqN35yvo2SR6JNrBw=="
+                length="14461107"
+            />
+        </item>
+
     </channel>
 </rss>
